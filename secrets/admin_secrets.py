@@ -1,1 +1,0 @@
-google_key_file="google_client_key.json"
