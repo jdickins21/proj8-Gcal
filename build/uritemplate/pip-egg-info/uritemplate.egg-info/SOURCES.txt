@@ -1,0 +1,7 @@
+README.rst
+pip-egg-info/uritemplate.egg-info/PKG-INFO
+pip-egg-info/uritemplate.egg-info/SOURCES.txt
+pip-egg-info/uritemplate.egg-info/dependency_links.txt
+pip-egg-info/uritemplate.egg-info/requires.txt
+pip-egg-info/uritemplate.egg-info/top_level.txt
+uritemplate/__init__.py
